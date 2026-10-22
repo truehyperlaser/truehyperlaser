@@ -1,3 +1,3 @@
-<p>corpse</p>
-<p>/kôrps/</p>
-<p>a corpse is the dead body of a human being.</p>
+<p>moribund</p>
+<p>/ˈmɔr əˌbʌnd/</p>
+<p>in a dying state; near death.</p>
